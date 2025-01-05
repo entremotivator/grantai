@@ -1,0 +1,13 @@
+streamlit
+pandas
+langchain
+#langchain-ollama
+langchain-community
+sentence-transformers
+faiss-cpu
+nltk
+pypdf
+fastapi
+aiohttp
+jsonschema
+typing-extensions
